@@ -1,6 +1,6 @@
 # Convex hull using Graham Scan
 
-![Convex Hull](.\example.png)
+![Convex Hull](example.png)
 
 ### Build
 
